@@ -1,0 +1,7 @@
+numpy
+pillow
+pyproj
+tifffile
+matplotlib
+# stitch_mosaic.py / overview_map.py also need opencv-python-headless, rasterio, scipy;
+# without them they run inside the opendronemap/odm Docker image automatically.

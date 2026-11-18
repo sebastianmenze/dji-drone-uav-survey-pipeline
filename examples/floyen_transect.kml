@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="document">
+	<ex:extension>base64;CooBCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAA</ex:extension>
+	<name>floyen transect</name>
+	<gx:CascadingStyle kml:id="__managed_style_0FF8E012AD4319B0F207_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FF8E012AD4319B0F207_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FF8E012AD4319B0F207">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0FF8E012AD4319B0F207_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FF8E012AD4319B0F207_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="082659B2044319B0F1F4">
+		<name>Untitled polygon</name>
+		<LookAt>
+			<longitude>5.37061174164289</longitude>
+			<latitude>60.40873889398718</latitude>
+			<altitude>541.9140413438868</altitude>
+			<heading>82.86511178082047</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2344.154215286253</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FF8E012AD4319B0F207</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						5.374404541231708,60.40873996381531,0 5.37141556825862,60.41161331588363,0 5.367998459776866,60.41047977629071,0 5.366790866485163,60.40952056699063,0 5.367187812596304,60.4079805731794,0 5.367301839631518,60.40728994123136,0 5.368491422620911,60.40596368760556,0 5.369120354206323,60.40450987729699,0 5.370057270534383,60.40347085945145,0 5.372241892620395,60.40366847329643,0 5.375375918567755,60.40476136351135,0 5.376843128436855,60.40615442475215,0 5.374404541231708,60.40873996381531,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B31EA35574319CE71BC">
+		<name>start</name>
+		<LookAt>
+			<longitude>5.36762859576301</longitude>
+			<latitude>60.41070188229149</latitude>
+			<altitude>552.0965348508076</altitude>
+			<heading>-14.57668566587198</heading>
+			<tilt>59.99538647149396</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>242.5860491166895</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FF8E012AD4319B0F207</styleUrl>
+		<Point>
+			<coordinates>5.367626924979718,60.41058629384631,552.6493442343128</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

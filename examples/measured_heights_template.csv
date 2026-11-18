@@ -1,0 +1,2 @@
+lat,lon,elev
+# one row per measured point, decimal degrees, elevation in metres (same GPS/datum for all points incl. takeoff)
